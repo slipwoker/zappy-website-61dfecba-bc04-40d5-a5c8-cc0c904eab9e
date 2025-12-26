@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dudai-61dfecba.zappy5.app/sitemap.xml

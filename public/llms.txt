@@ -1,0 +1,57 @@
+# DUDAI | דודאי — Generative Engine Optimization Map
+
+> A מוזיקה ותוכן דיגיטלי - אומנות AI business.
+
+---
+
+## Pages
+
+### דף הבית
+https://dudai-61dfecba.zappy5.app
+גלו את DUDAI, אומן AI ישראלי פורץ דרך היוצר תוכן מוזיקלי לרשתות חברתיות. חוויית מוזיקה דיגיטלית ייחודית.
+
+### המוזיקה שלי
+https://dudai-61dfecba.zappy5.app/music
+גלו את הקולקציה המוזיקלית המלאה של DUDAI - אומן AI ישראלי. יצירות מקוריות, תוכן לרשתות חברתיות וחוויות סוניות ייחודיות.
+
+### אודות
+https://dudai-61dfecba.zappy5.app/about
+הכירו את DUDAI - דודאי אמן מוזיקלי ואומן AI ישראלי חדשני. גלו את הסיפור, החזון והפילוסופיה מאחורי היצירה המוזיקלית.
+
+### צור קשר
+https://dudai-61dfecba.zappy5.app/contact
+צרו קשר עם DUDAI - אומן AI ישראלי. שיתופי פעולה, פרויקטים מוזיקליים, תוכן מוזיקלי לרשתות חברתיות ושאלות כלליות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://dudai-61dfecba.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dudai-61dfecba.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dudai-61dfecba.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DUDAI | דודאי
+DUDAI | דודאי is a business in the מוזיקה ותוכן דיגיטלי - אומנות AI industry.
+
+## Target Audience
+אנשים שרוצים לדעת עוד על האומן AI ועל היצירה המוזיקלית
+
+## Industry
+מוזיקה ותוכן דיגיטלי - אומנות AI
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://dudai-61dfecba.zappy5.app/sitemap.xml
+- **Robots.txt**: https://dudai-61dfecba.zappy5.app/robots.txt
